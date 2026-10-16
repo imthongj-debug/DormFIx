@@ -6,7 +6,7 @@
 660911192 จิรภัทร อิ่มทอง
 660911191 จักรพรรณ ปรางศร
 
-Web Application ตัวอย่างสำหรับโปรเจกต์กลุ่ม ใช้ HTML, CSS, JavaScript, Fetch API, Node.js, Express และ MongoDB
+Web Application สำหรับโปรเจกต์กลุ่ม ใช้ HTML, CSS, JavaScript, Fetch API, Node.js, Express และ MongoDB
 
 ## ฟังก์ชัน
 - สมัครสมาชิกและเข้าสู่ระบบ (Resident/Admin)
